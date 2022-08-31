@@ -1,0 +1,16 @@
+###PRÉSENTATION DE L’UMR GDEC (lieu de stage):
+L’Unité Mixte de Recherche Génétique Diversité et Ecophysiologie des Céréales (UMR 1095 GDEC) localisée sur le site INRAE de Crouël (Clermont-Ferrand) et sur le Campus Universitaire des Cézeaux (Aubière), est composée d’une dizaine d’équipes focalisées sur le blé tendre, espèce modèle et d’importance agronomique (2ème céréale au niveau mondial). Leur objectif commun est l’amélioration de la qualité et du rendement du blé dans un contexte d’agriculture durable et de changements climatiques. Mon stage s’inscrit dans le cadre du projet Exige de l’équipe de recherche QUALIGRAIN en co-encadrement avec la plateforme BIOINFO et dont les travaux visent à comprendre la variabilité des gènes codant les protéines de réserves chez le blé tendre, mon stage s’intéresse à l'analyse de la famille des gènes de Gluténines .
+
+###Objectif de l’étude:
+
+Le blé occupe une place primordiale dans le marché des céréales dans le monde entier et répond aux besoins nutritionnels d’environ 80% de la population mondiale. Le grain de blé tendre est transformé  en plusieurs produits alimentaires, dont le plus important est le pain. La qualité de ce dernier est liée directement au pourcentage en protéines de réserves contenues dans le grain (Gluténines et Gliadines), d’où l'intérêt de l’analyse et le décryptage des gènes codant ces protéines. Ces gènes ont comme caractéristique génétique l'absence des introns, la présence des séquences répétées, des ETs, et un polymorphisme de taille important. Ce travaille est dédié à l’analyse de la diversité nucléotidique de 18 gènes de Gluténines chez 96 accession de blé tendre, il s’agit donc d’une analyse verticale, d’où le choix de la méthode de demultiplexing et du pool sequencing avec la technologie PacBio HiFi qui nous offre l’opportunité de séquencer les séquences complètes des gènes d'intérêts. Le génome de Chinese Spring (Refseq v1) à été utilisé comme génome de référence pour le développement des amorces et aussi pour les analyses bio-informatiques.
+
+### Résumé : 
+
+Le blé domine le commerce international des céréales, il occupe la deuxième place après le maïs. Chaque année, 650 à 685 millions de tonnes de blé sont produites, 654 à 660 millions de tonnes sont consommées et 160 à 190 millions de tonnes sont entreposées en réserves (www.yara.fr), et il répond aux besoins nutritionnels d’une grande partie de la population mondiale.
+
+Le blé tendre (Triticum aestivum) fait partie des variétés de blé les plus importantes grâce à ces qualités nutritives et sa composition élevée en protéines de réserves qui lui confère son caractère panifiable.
+
+Les nouvelles technologies de séquençage long reads comme PacBio et Nanopore ont permis de mieux étudier la génétique de cette variété de blé et d’améliorer sa sélection génomique. Dans le cadre de ce projet, je serai amené à analyser la diversité nucléotidique des gènes codant les protéines de réserves, particulièrement les gluténines ; les séquences à analyser sont obtenues par PCR long range et un séquençage longreads en utilisant la technologie PacBio.
+
+Mots clés : Blé tendre ; Protéines de réserves ; Diversité nucléotidique ; Gluténine ; PacBio
